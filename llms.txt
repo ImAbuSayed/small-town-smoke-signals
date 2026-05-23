@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/small-town-smoke-signals/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Small Town Smoke Signals](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/small-town-smoke-signals/) |
+| **Get License** | [Official Music Licensing for Small Town Smoke Signals](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/small-town-smoke-signals/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1991)
 
 ---
 
