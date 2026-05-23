@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The neon sign is buzzing, but I'm looking at your eyes
+> A million miles of highway couldn't match this sweet surprise
+> You draw me in so close I feel the rhythm of your breath
+> We're burning up the midnight 'til there's nothing but us left
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4fc8c04cc50d7f206ecd68316c73de1c159a3ca0da85c1df47581b30533bbd03` |
 | **Timestamp** | May 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
