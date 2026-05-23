@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/small-town-smoke-signals/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Small Town Smoke Signals](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/small-town-smoke-signals/) |
+| **Get License** | [Secure Licensing Rights for Small Town Smoke Signals](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/small-town-smoke-signals/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The neon sign is buzzing, but I'm looking at your eyes
+> A million miles of highway couldn't match this sweet surprise
+> You draw me in so close I feel the rhythm of your breath
+> We're burning up the midnight 'til there's nothing but us left
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
